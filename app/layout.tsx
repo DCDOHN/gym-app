@@ -61,7 +61,7 @@ export default function RootLayout({
                                 </NavigationMenuItem>
                                 <NavigationMenuItem>
                                     <NavigationMenuLink asChild>
-                                        <Link href="/add-workout">
+                                        <Link href="/AddWorkout">
                                             Add Workout
                                         </Link>
                                     </NavigationMenuLink>
